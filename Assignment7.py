@@ -1,8 +1,6 @@
-# CSC 110 Assignment #7 
 # A program to help a company assess its monthly sales 
 # Alieu Sanneh
-# Section 05
-# 6/1/17
+
 
 
 #the main function controls the sequence in which the code is run.
